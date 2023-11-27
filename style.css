@@ -1,0 +1,22 @@
+
+body { background-color: #A1C7E0; color: #202022; font-family: Arial, Helvetica, sans-serif; }
+  h1 { background-color: #0099DD; color:#A1C7E0;  line-height: 200%;
+ font-family: Georgia, "Times New Roman", serif;
+ text-indent: 1em;
+ text-shadow: 3px 3px 5px #000000; 
+     text-align: center;}
+  h2 { background-color: #7c51f0; 
+   color: #202022; 
+ font-family: Georgia, "Times New Roman", serif;
+ text-align: center;  }
+  nav { font-weight: bold;
+    font-size: 1.25em;
+  word-spacing: 1em; }
+  p { font-size: .90em;
+text-indent: 3em; }
+ ul { font-weight: bold; }
+  nav a { text-decoration: none; }
+  footer { color: #333333;
+       font-size: .75em;
+           font-style: italic; }
+
